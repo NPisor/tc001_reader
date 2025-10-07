@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Thermal Camera\tc001_reader\tc001_c_reader\core\src\tc001.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Thermal Camera\tc001_reader\tc001_c_reader\core\src\platform_win.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\Thermal Camera\tc001_reader\tc001_c_reader\core\include\tc001.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Thermal Camera\tc001_reader\tc001_c_reader\core\include\tc001_export.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Thermal Camera\tc001_reader\tc001_c_reader\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4F9CC92E-1BBC-35C0-A8E0-BA030FC060EE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{189899DF-8C74-398D-8A76-4C147B6494DC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

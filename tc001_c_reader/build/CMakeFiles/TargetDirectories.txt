@@ -1,0 +1,5 @@
+E:/Thermal Camera/tc001_reader/tc001_c_reader/build/CMakeFiles/tc001.dir
+E:/Thermal Camera/tc001_reader/tc001_c_reader/build/CMakeFiles/tc001_static.dir
+E:/Thermal Camera/tc001_reader/tc001_c_reader/build/CMakeFiles/reader.dir
+E:/Thermal Camera/tc001_reader/tc001_c_reader/build/CMakeFiles/ALL_BUILD.dir
+E:/Thermal Camera/tc001_reader/tc001_c_reader/build/CMakeFiles/ZERO_CHECK.dir

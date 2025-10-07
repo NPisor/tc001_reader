@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "signal.h": "c",
+        "stdio.h": "c",
+        "stdint.h": "c",
+        "image_writer.h": "c"
+    }
+}

@@ -1,0 +1,10 @@
+^E:\THERMAL CAMERA\TC001_READER\TC001_C_READER\BUILD\CMAKEFILES\9D6A8FBFBA7F8FD6FA837012EDF5B93D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SE:/Thermal Camera/tc001_reader/tc001_c_reader" "-BE:/Thermal Camera/tc001_reader/tc001_c_reader/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "E:/Thermal Camera/tc001_reader/tc001_c_reader/build/tc001.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,7 @@
+E:/Thermal Camera/tc001_reader/tc001_c_reader/build-android-arm64/CMakeFiles/tc001.dir
+E:/Thermal Camera/tc001_reader/tc001_c_reader/build-android-arm64/CMakeFiles/edit_cache.dir
+E:/Thermal Camera/tc001_reader/tc001_c_reader/build-android-arm64/CMakeFiles/rebuild_cache.dir
+E:/Thermal Camera/tc001_reader/tc001_c_reader/build-android-arm64/CMakeFiles/list_install_components.dir
+E:/Thermal Camera/tc001_reader/tc001_c_reader/build-android-arm64/CMakeFiles/install.dir
+E:/Thermal Camera/tc001_reader/tc001_c_reader/build-android-arm64/CMakeFiles/install/local.dir
+E:/Thermal Camera/tc001_reader/tc001_c_reader/build-android-arm64/CMakeFiles/install/strip.dir

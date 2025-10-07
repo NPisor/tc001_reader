@@ -1,0 +1,4 @@
+# ninja log v5
+1	91	7815504300319644	CMakeFiles/tc001.dir/core/src/platform_posix.c.o	5be9060f26e9302c
+6	190	7815504301301941	CMakeFiles/tc001.dir/core/src/tc001.c.o	7bc76d0140669cb3
+190	332	7815504302756453	libtc001.so	385e224f2dfdd04c
